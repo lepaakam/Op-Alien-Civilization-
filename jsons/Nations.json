@@ -3,7 +3,7 @@
 		"name": "Aliens",
 		"leaderName": "Zyikma",
 		"adjective": ["alien"],
-		"startBias": ["coast"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
