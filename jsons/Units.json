@@ -4,12 +4,13 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
-		"movement": 3,
+		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 26,
 		"range": 5,
 		"cost": 50,
 		"promotions": ["Logistics","Accuracy I"],
+		"uniques": [ "May Paradrop to [All] tiles up to [6] tiles away" ],
 		"attackSound": "phasers"
 	}
 ]
