@@ -10,7 +10,7 @@
 		"range": 5,
 		"cost": 50,
 		"promotions": ["Logistics","Accuracy I"],
-		"uniques": [ "May Paradrop to [All] tiles up to [6] tiles away" ],
+		"uniques": [ "May Paradrop to [All] tiles up to [6] tiles away", "[-100]% maintenance costs]"],
 		"attackSound": "phasers"
 	}
 ]
